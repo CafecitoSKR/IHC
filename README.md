@@ -40,3 +40,14 @@ Acceder a información detallada y confiable sobre ingredientes y opciones segur
 Personalización de la aplicación para adaptarse a sus alergias específicas.  
 Alertas en tiempo real sobre ingredientes problemáticos.  
 Sentirse seguros al comer fuera de casa y tener opciones de restaurantes que cumplan con las regulaciones de alérgenos.
+# Caracteristicas:
+- Base de datos de alimentos alergénicos
+- Escaneo de códigos de barras
+- Perfiles de usuario personalizados
+- Búsqueda de alimentos seguros
+- Información sobre restaurantes y menús
+- Recetas y cocina personalizada
+- Actualizaciones regulares
+- Soporte comunitario
+- Actualizaciones regulares
+- Seguridad de datos
