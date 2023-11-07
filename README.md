@@ -3,11 +3,12 @@
 Somos Nexus, una empresa creada por un grupo de estudiantes de la Universidad Peruana de Ciencias Aplicadas y dedicada a simplificar la gestión de alergias alimentarias a través de una aplicación innovadora. Planteamos una solución innovadora en la gestión de alérgenos alimentarios, trasformando la manera en que las personas interactúan con la comida. Usando tecnologías de vanguardia, herramientas avanzadas y estrategias especializadas para proporcionar a los usuarios una experiencia única, haciéndolos sentir que la gestión de sus alergias alimentarias es entretenida, rápida, segura y altamente eficaz.
 
 # Autores:
-- Renato Sebastián Leon Sandoval  
-- Dalí Alfredo Zahir Paredes Salazar  
-- Fabrizio Fabian Palomino Correa   
-- Diego Rodrigo Pumahualcca Garcia 
-- Gonzalo Freddy Gonzales Cancio
+- Renato Sebastián Leon Sandoval  (U202214150)
+- Dalí Alfredo Zahir Paredes Salazar (U202213089)  
+- Fabrizio Fabian Palomino Correa (U20171A663)
+- Diego Rodrigo Pumahualcca Garcia (u202219266)
+- Gonzalo Freddy Gonzales Cancio (U202125983)
+- ""(U202122129)
 
 # Segmentos Objetivos:
 **Familiares y Cuidadores:** 
