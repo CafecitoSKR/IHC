@@ -8,7 +8,7 @@ Somos Nexus, una empresa creada por un grupo de estudiantes de la Universidad Pe
 - Fabrizio Fabian Palomino Correa (U20171A663)
 - Diego Rodrigo Pumahualcca Garcia (u202219266)
 - Gonzalo Freddy Gonzales Cancio (U202125983)
-- Alejandro Flores (U202122129)
+- Alejandro Espino Flores (U202122129)
 
 # Segmentos Objetivos:
 **Familiares y Cuidadores:** 
