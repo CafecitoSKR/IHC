@@ -1,0 +1,294 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+#page{
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+header{
+    height: 20px;
+    padding: 10px;
+    color: aqua;
+}
+
+nav{
+    height: 50px;
+    width: 100%;
+}
+
+nav ul{
+    float: right;
+    margin-right: 20px;
+}
+
+nav ul li{
+    display: inline-block;
+    margin: 0px 5px;
+}
+
+nav ul li a{
+    color: black;
+    font-size: 15px;
+    padding: 7px 13px;
+    border-radius: 3px;
+    text-transform: capitalize;
+}
+
+li a:hover{
+    background-color: aquamarine;
+    transition: 2s;
+}
+
+section.banner{
+    color: white;
+    background: linear-gradient(to right, rgb(226, 226, 226), rgb(0 0 0));
+}
+
+.containerB{
+    width: 90%;
+    margin: 0px auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(20rem,1fr));
+    grid-gap: 2rem;
+}
+
+.col1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.imgBanner{
+    width: 60%;
+}
+
+.col2{
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h2{
+    font-size: 2rem;
+}
+
+#txtBanner{
+    margin: 2rem 0;
+    font-size: 1.3rem;
+    line-height: 2rem;
+    text-align: justify;
+}
+
+.btnBanner{
+    background: orange;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 25px;
+    text-decoration: none;
+}
+
+/*About Us*/
+
+.Aboutus{
+    padding: 3rem 0;
+}
+
+.subAboutus{
+    text-align: center;
+    padding-bottom: 2rem;
+    color: aqua;
+}
+
+.ContainerAU{
+    width: 70%;
+    margin: 0px auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(20rem,1fr));
+    grid-gap: 2rem;
+}
+
+.imgAboutUs{
+    width: 70%;
+}
+
+/*Blogs*/
+
+.Blogs{
+    padding: 3rem 0;
+}
+
+.subBlogs{
+    text-align: center;
+    padding-bottom: 2rem;
+    color: aqua;
+}
+
+.ContainerBl{
+    width: 90%;
+    margin: 0px auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(20rem,1fr));
+    grid-gap: 2rem;
+}
+
+.imgcurry{
+    width: 60%;
+}
+
+.imgensalada{
+    width: 75%;
+}
+
+.imgcrema{
+    width: 60%;
+}
+
+.boxB{
+    padding: 2rem 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 0px 55px 5px rgb(0 0 0/6%);
+}
+
+h3{
+    padding: 1rem 0;
+}
+
+/*Testimonios*/
+
+.Testimonios{
+    padding: 3rem 0;
+}
+
+.subTestimonios{
+    text-align: center;
+    padding-bottom: 2rem;
+    color: aqua;
+}
+
+.ContainerT{
+    width: 90%;
+    margin: 0px auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(20rem,1fr));
+    grid-gap: 2rem;
+}
+
+.mujer{
+    width: 40%;
+}
+
+.boxT{
+    padding: 2rem 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 0px 55px 5px rgb(0 0 0/6%);
+}
+
+#Testimonio{
+    padding: 1rem 0;
+}
+
+/*Nosotros*/
+
+.Nosotros{
+    padding: 3rem 0;
+}
+
+.subNosotros{
+    text-align: center;
+    padding-bottom: 2rem;
+    color: aqua;
+}
+
+.ContainerN{
+    width: 70%;
+    margin: 0px auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(20rem,1fr));
+    grid-gap: 2rem;
+}
+
+.imgNosotros{
+    width: 70%;
+}
+
+#Nosotros{
+    padding: 1rem 0;
+}
+
+.btnNosotros{
+    background: orange;
+    color: black;
+    padding: 5px;
+    border-radius: 15px;
+    text-decoration: none;
+}
+
+.contact h1{
+    color: green;
+    margin: 15px 0px;
+    font-size: 30px;
+}
+#comu{
+    margin-bottom: 15px;
+}
+.contact h2{
+    font-size: 15px;
+    
+}
+.contact h6{
+    font-size: 10px;
+    margin: 15px 0px;  
+    font-weight: normal;
+}
+.contact{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 500px;
+    position: relative;
+    left: 75vh;
+    align-items: center;
+    background-color: #AAEA8F;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px #888888;
+    
+}
+.input{
+    padding: 5px;
+    width: 350px;
+    margin-bottom: 15px;
+    background-color: #DDE4DA;
+    border: none;
+    box-shadow: 5px 5px 10px #888888;
+    border-radius: 5px;
+  }
+  .input_submit{
+    margin: 15px;
+    padding: 10px 25px;
+    background-color: green;
+    border: none;
+    box-shadow: 5px 5px 10px #888888;
+    border-radius: 5px;
+  }
+
+
+footer{
+    background-color: #4c4c4c;
+    color: #fff;
+    padding: 20px;
+    margin-top: 50px;
+    text-align: center;
+}
+  
