@@ -33,9 +33,10 @@ Diversidad en la edad, desde niños hasta adultos mayores. 
 Tipos variados de alergias alimentarias (nueces, gluten, lácteos, huevo, etc.).  
 Niveles de experiencia en la gestión de sus alergias.  
 Uso de dispositivos móviles y aplicaciones.  
-Deseo de llevar un estilo de vida normal sin riesgos alimentarios.  
-Motivaciones y Necesidades:  
-- Identificar alérgenos en productos alimentarios de manera rápida y precisa.  
+Deseo de llevar un estilo de vida normal sin riesgos alimentarios.
+
+- Motivaciones y Necesidades:
+Identificar alérgenos en productos alimentarios de manera rápida y precisa.  
 Acceder a información detallada y confiable sobre ingredientes y opciones seguras.  
 Personalización de la aplicación para adaptarse a sus alergias específicas.  
 Alertas en tiempo real sobre ingredientes problemáticos.  
