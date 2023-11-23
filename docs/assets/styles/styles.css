@@ -251,11 +251,11 @@ h3{
 .contact {
     display: flex;
     flex-direction: column;
-    align-items: center; /* Centrar horizontalmente */
-    justify-content: center; /* Centrar verticalmente */
-    width: 90%; /* Ajustar el ancho según tus necesidades */
-    max-width: 500px; /* Establecer un ancho máximo */
-    margin: 0 auto; /* Centrar en la página */
+    align-items: center; 
+    justify-content: center; 
+    width: 90%; 
+    max-width: 500px; 
+    margin: 0 auto; 
     background-color: #AAEA8F;
     border-radius: 5px;
     box-shadow: 5px 5px 10px #888888;
