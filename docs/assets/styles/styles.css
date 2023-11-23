@@ -5,10 +5,14 @@
     list-style: none;
     box-sizing: border-box;
 }
-#page{
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.page{
     position: sticky;
-    top: 0;
+    top: 0; 
     z-index: 1000;
+    background-color: white;
 }
 header{
     height: 20px;
@@ -41,7 +45,7 @@ nav ul li a{
 
 li a:hover{
     background-color: aquamarine;
-    transition: 2s;
+    transition: 0.5s;
 }
 
 section.banner{
@@ -61,6 +65,7 @@ section.banner{
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: transparent;
 }
 
 .imgBanner{
@@ -243,45 +248,54 @@ h3{
 #comu{
     margin-bottom: 15px;
 }
-.contact h2{
-    font-size: 15px;
-    
-}
-.contact h6{
-    font-size: 10px;
-    margin: 15px 0px;  
-    font-weight: normal;
-}
-.contact{
+.contact {
     display: flex;
     flex-direction: column;
-    width: 500px;
-    height: 500px;
-    position: relative;
-    left: 75vh;
-    align-items: center;
+    align-items: center; /* Centrar horizontalmente */
+    justify-content: center; /* Centrar verticalmente */
+    width: 90%; /* Ajustar el ancho según tus necesidades */
+    max-width: 500px; /* Establecer un ancho máximo */
+    margin: 0 auto; /* Centrar en la página */
     background-color: #AAEA8F;
     border-radius: 5px;
     box-shadow: 5px 5px 10px #888888;
-    
 }
-.input{
-    padding: 5px;
-    width: 350px;
+
+.contact h2 {
+    font-size: 15px;
+}
+
+.contact h6 {
+    font-size: 10px;
+    margin: 15px 0 0;
+    font-weight: normal;
+}
+
+.input {
+    padding: 10px; 
+    width: 95%; 
     margin-bottom: 15px;
     background-color: #DDE4DA;
     border: none;
     box-shadow: 5px 5px 10px #888888;
     border-radius: 5px;
-  }
-  .input_submit{
-    margin: 15px;
-    padding: 10px 25px;
+}
+
+.input_submit {
+    margin: 15px 0; 
+    padding: 15px 25px; 
     background-color: green;
+    color: #fff; 
     border: none;
     box-shadow: 5px 5px 10px #888888;
     border-radius: 5px;
-  }
+    cursor: pointer; 
+}
+
+.input_submit:hover {
+    background-color: darkgreen; 
+}
+
 
 
 footer{
